@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5dd648-3743-409f-8b7d-79f07c5a02dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="de5dd648-3743-409f-8b7d-79f07c5a02dc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +17,7 @@
     <option name="height" value="1027" />
   </component>
   <component name="ProjectId" id="1P2yMErCs9xUPUcWd3fW0weWhYL" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
@@ -57,7 +54,7 @@
       <workItem from="1564283824292" duration="28000" />
       <workItem from="1564283874395" duration="394000" />
       <workItem from="1564284493566" duration="17000" />
-      <workItem from="1565086436867" duration="50000" />
+      <workItem from="1565086436867" duration="505000" />
     </task>
     <servers />
   </component>
