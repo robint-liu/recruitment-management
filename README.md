@@ -1,15 +1,27 @@
-# my-lagou
-首次接触nodejs，借助express框架等自我学习下
+# recruitment-management
+## 招聘管理系统
 
-## 注释
- 根地址：localhost:8888
-   
-   解决了以下bug：
-   
-       当全部删除时，会出现5行unfefined信息；
-       
-       删除每行信息时，删除照片逻辑；
-       
-       修改每行信息时，删除照片逻辑；
-       
-       对界面进行了适当优化。
+## Project request
+
+```
+使用Express搭建一个招聘管理系统
+```
+
+## Project technology stack
+
+```
+Node + Express + MongoDB + Bootstrap + jQuery 
+```
+
+## Project setup
+
+```
+1、本地安装mongoDB，创建数据库position
+2、npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm start
+```

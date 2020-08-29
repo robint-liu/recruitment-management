@@ -65,7 +65,7 @@ $.extend(PositionList.prototype, {
 		if (list!="error") {
 				for(var i=0;i<list.length;i++){
 				var item=list[i];
-				this.file = item.filename ? item.filename: "头像.PNG";
+				this.file = item.filename || "defaulg.png";
 				str+=`<tr>
 							<td  style="text-align:center">${i + 1}</td>
 							<td  style="text-align:center">${item.company}</td>
