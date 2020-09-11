@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": false,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "nodemon ./bin/www",
+    "poststart": "mongod --dbpath /Users/robin/Documents/dataSource"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
